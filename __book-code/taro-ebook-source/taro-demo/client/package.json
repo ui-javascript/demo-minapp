@@ -41,7 +41,7 @@
 		"@tarojs/components": "1.1.8",
 		"@tarojs/redux": "1.1.8",
 		"@tarojs/redux-h5": "1.1.8",
-		"@tarojs/rn-runner": "1.1.8",
+		"@tarojs/rn-runner": "3.5.7",
 		"@tarojs/router": "1.1.8",
 		"@tarojs/taro": "1.1.8",
 		"@tarojs/taro-alipay": "^1.1.8",
